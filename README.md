@@ -2,3 +2,5 @@
 Data Structures and Algorithms concepts in python for practicing for technical interviews
 
 for reference use only
+
+#Big O Analysis
